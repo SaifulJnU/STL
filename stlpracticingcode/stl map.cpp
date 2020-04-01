@@ -14,7 +14,7 @@ int main()
        string s;
        int a;
        cin>>s>>a;
-       mp.insert(pair<string,int>(s,a)); /// to inserting the elements in map by using pair
+       mp.insert(pair<string,int>(s,a)); /// to insert the elements in map by using pair
     }
     cout<<"all elements after inserting : "<<endl;
 
